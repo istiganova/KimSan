@@ -1,3 +1,4 @@
-module go-repeat-1
+
+module homework
 
 go 1.25.0
